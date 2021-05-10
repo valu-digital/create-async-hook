@@ -1,3 +1,7 @@
+# MOVED to the npm-packages repo
+
+https://github.com/valu-digital/npm-packages
+
 # React Hook Factory for Async Functions
 
 With focus on simple pagination.
